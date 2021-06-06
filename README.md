@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @camilo-a-g-z
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning websockets in java and DB with MySQL.
